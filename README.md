@@ -267,6 +267,9 @@ The AI assistant can:
 Final Year Engineering Student
 
 GitHub: https://github.com/naveenkkr75
+## Live Demo
+
+https://app-sheets-ai-agent-ys9m9vnfrggkne3c7geks7.streamlit.app/
 
 ---
 
