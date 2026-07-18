@@ -23,17 +23,17 @@ An AI-powered inventory management system that enables users to manage Google Sh
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Programming | Python |
-| AI Framework | LangGraph, LangChain |
-| LLM | Google Gemini 2.5 Flash |
-| Database | Google Sheets |
-| API | Google Sheets API |
-| Frontend | Streamlit |
-| Data Processing | Pandas |
-| Visualization | Matplotlib |
-| Environment | python-dotenv |
+| Category | Technologies                 |
+|----------|------------------------------|
+| Programming | Python                       |
+| AI Framework | LangGraph, LangChain         |
+| LLM | Google Gemini 3.1 Flash-lite |
+| Database | Google Sheets                |
+| API | Google Sheets API            |
+| Frontend | Streamlit                    |
+| Data Processing | Pandas                       |
+| Visualization | Matplotlib                   |
+| Environment | python-dotenv                |
 
 ---
 
